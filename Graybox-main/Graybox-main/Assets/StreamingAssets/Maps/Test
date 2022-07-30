@@ -1,0 +1,34 @@
+{
+  "$type": "Graybox.gb_MapInfo, Assembly-CSharp",
+  "Name": "Test Map!",
+  "Objects": {
+    "$type": "System.Collections.Generic.List`1[[Graybox.gb_Object, Assembly-CSharp]], mscorlib",
+    "$values": []
+  },
+  "Position": {
+    "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "Rotation": {
+    "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "Scale": {
+    "$type": "UnityEngine.Vector3, UnityEngine.CoreModule",
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "magnitude": 0.0,
+    "sqrMagnitude": 0.0
+  },
+  "Enabled": false,
+  "ObjectId": 0
+}
